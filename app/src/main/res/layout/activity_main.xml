@@ -19,7 +19,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/googleBtn"></com.google.android.gms.common.SignInButton>
+        android:id="@+id/googleBtn11"></com.google.android.gms.common.SignInButton>
 
 
 </RelativeLayout>
