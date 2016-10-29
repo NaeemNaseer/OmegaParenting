@@ -10,10 +10,9 @@
     android:weightSum="1">
 
     <ImageView
-        android:layout_width="204dp"
-        android:layout_height="156dp"
+        android:layout_width="177dp"
+        android:layout_height="127dp"
         android:id="@+id/splash"
-        android:background="@drawable/splash_img"
-        android:layout_weight="0.13" />
+        android:background="@drawable/splash_img" />
 
 </LinearLayout>
